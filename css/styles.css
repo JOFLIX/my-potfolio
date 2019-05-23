@@ -1,4 +1,4 @@
-body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+body,h2,h3,h4,h5,h6 {font-family: 'Cinzel Decorative', cursive;}
 #head{
   display: block;
   flex-direction:row
@@ -7,6 +7,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 #floatr{
   float: right;
   padding-bottom:10%;
+  padding-right: 30%
+
 }
 
 .icon-bar a {
@@ -27,6 +29,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   border: 1px solid grey:
   padding:inherit;
   overflow-x: scroll;
+  text-overflow: ellipsis;
 }
 
 #columnt{
