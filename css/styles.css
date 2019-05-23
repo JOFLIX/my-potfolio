@@ -2,6 +2,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 #head{
   display: block;
   flex-direction:row
+  justify-content: space-around:
 }
 #floatr{
   float: right;
@@ -18,15 +19,25 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 }
 .icon-bar{
   width: 100px;
-  background-color:#757B7C;
+  height: inherit;
+  width: 120px;
+  background: #222;
 }
 
 #column2{
     display: block;
     float:right;
-    flex-
+    margin-left: 120px
 }
 body{
   background-color: #757B7C;
   font-size-adjust: auto;
+  color: white;
 }
+
+#imgo{
+  padding-bottom: 10%;
+  margin-bottom: 12px;
+}
+/* remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
