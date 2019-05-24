@@ -1,4 +1,4 @@
-body,h2,h3,h4,h5,h6 {font-family: 'Cinzel Decorative', cursive;}
+h1,h2,h3,h4,h5,h6 {font-family: 'Cinzel Decorative', cursive;}
 #head{
   display: block;
   flex-direction:row
@@ -47,6 +47,11 @@ body{
 #imgo{
   padding-bottom: 10%;
   margin-bottom: 12px;
+}
+
+.me{
+  border:1px solid white;
+  border-radius: 8%;
 }
 
 
