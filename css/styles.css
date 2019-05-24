@@ -46,6 +46,7 @@ body{
 #imgo{
   padding-bottom: 10%;
   margin-bottom: 12px;
+  color
 }
 
 .me{
@@ -60,7 +61,7 @@ body{
   padding-top: 26%;
   justify-content: space-around;
   float: right;
-  padding-bottom: 50%;
+  padding-top: 50%;
 
 }
 
