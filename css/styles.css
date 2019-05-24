@@ -61,7 +61,18 @@ body{
   padding-top: 26%;
   justify-content: space-around;
 
+}
 
+#about{
+      text-align: center;
+      display: block;
+      flex-shrink: 5%;
+      float: right;
+      padding-left: 15%;
+      padding-right: 5%;
+}
+img{
+  greyscale: 120%;
 }
 
 
