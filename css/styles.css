@@ -54,6 +54,16 @@ body{
   border-radius: 8%;
 }
 
+#foot{
+  display: block;
+  flex-direction: row;
+  position: inherit;
+  padding-top: 26%;
+  justify-content: space-around;
+
+
+}
+
 
 /* remove margins from "page content" on small screens */
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
