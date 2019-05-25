@@ -14,7 +14,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Cinzel Decorative', cursive;}
 .icon-bar a {
   display: block;
   text-align: center;
-  padding:35%;
+  padding:15%;
   transition: all 0.8s ease;
   color:blue;
   font-size: 44px;
