@@ -17,7 +17,7 @@ The social media icons on the footer ma not be visible, but you can scroll the p
 * HTML
 * CSS
 * Git
-* Github
+* GitHub
 ## Support and contact details
 Kindly contact me via this contact(s):
 * Phone/ WhatsApp : +254708275041
